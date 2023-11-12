@@ -11,7 +11,7 @@
       "vscode": {
           "extensions": [
               "GitHub.copilot"
-          ]
+          ] 
       },
       "codespaces": {
           "openFiles": [
